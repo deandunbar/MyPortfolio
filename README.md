@@ -28,6 +28,15 @@ The vault has a built in directory to lookup the delegated owner of any nft in t
 Bitwave was the first place winner of the Texas Million Dollar Bitcoin Hackathon.
 Bitwave is a Decentralized web browsing application built on top of blockchain technology.
 ```
+## Cryptocurrency 
+
+### Monero Diceware seed generator [MoneroDice-WalletGen](https://github.com/Monero-HackerIndustrial/MoneroDice-WalletGen)
+```
+Offline Monero Seed Generating using Dice rolls as a source of entropy. 
+Can be used in an offline/airgapped machine to create cold 
+wallet address seeds. 
+```
+
 
 
 ### Ethereum 
