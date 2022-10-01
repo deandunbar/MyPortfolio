@@ -55,7 +55,7 @@ Part of the Monerosigner project.
 
 ### Ethereum 
 
-### Ethernaut Solutions [Bitwave](https://github.com/HackingWeb3/EthernautSolutions) 
+### Ethernaut Solutions [Solutions Repo](https://github.com/HackingWeb3/EthernautSolutions) 
 ```
 The Ethernaut is a Web3/Solidity based wargame. 
 This is a link to a repo containing examples of 
