@@ -68,6 +68,16 @@ solidity contracts. Used Brownie as my web3 framework
 
 ### Cybersecurity 
 
+### Web3sploit - Web3 Exploit Framework [Web3sploit](https://github.com/HackingWeb3/Web3sploit) 
+```
+A collection of offensive smart contracts to help expoit
+common smart contract vulnerabilities during audits and 
+pen-testing engagements. Quickly locate, load end deploy
+a weaponized smart contract to any web3 compatible chain
+and directly interact from an interactive console.
+```
+
+
 
 
 
