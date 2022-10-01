@@ -37,6 +37,20 @@ Can be used in an offline/airgapped machine to create cold
 wallet address seeds. 
 ```
 
+### Monerosigner [Monerosigner CCS](https://ccs.getmonero.org/proposals/MoneroSigner.html)
+```
+Monero specific fork of seedsigner called Monerosigner. Monerosigner is an offline signing hardware wallet built around the raspberry pi zero SBC. The hardware comes with a companion desktop application called Monerosigner Companion. With the companion application users are able to send unsigned transactions via QR codes to Monerosigner.
+
+Crowdfunded by the Monero community
+```
+
+
+### Portable Monero QR code standard [PortableMoneroQR](https://github.com/Monero-HackerIndustrial/PortableMoneroQR)
+```
+QR code standard for offline data transfer. Optimized for low res screens/cameras. 
+Part of the Monerosigner project.
+```
+
 
 
 ### Ethereum 
