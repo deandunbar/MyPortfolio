@@ -55,6 +55,17 @@ Part of the Monerosigner project.
 
 ### Ethereum 
 
+### Ethernaut Solutions [Bitwave](https://github.com/HackingWeb3/EthernautSolutions) 
+```
+The Ethernaut is a Web3/Solidity based wargame. 
+This is a link to a repo containing examples of 
+the malicious code I used to win the associated level.
+Shows applied usage of malicious solidity code to exploit vulnerable 
+solidity contracts. Used Brownie as my web3 framework
+```
+
+
+
 ### Cybersecurity 
 
 
