@@ -69,8 +69,7 @@ solidity contracts. Used Brownie as my web3 framework
 
 ### Cybersecurity 
 
-### ETHstorageDump - [Tool Repo](
-https://github.com/HackingWeb3/ETHstorageDump/blob/main/README.md)
+### ETHstorageDump - [Tool Repo](https://github.com/HackingWeb3/ETHstorageDump/blob/main/README.md)
 ```
 A simple python tool to help dump memory slots from targeted solidity contracts.
 ```
