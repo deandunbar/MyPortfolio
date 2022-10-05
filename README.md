@@ -83,6 +83,14 @@ a weaponized smart contract to any web3 compatible chain
 and directly interact from an interactive console.
 ```
 
+### Miscellaneous 
+
+### SuperResumeWorld.com - Video Game Resume[Source](https://github.com/deandunbar/resume-game-js) [Game](https://superresumeworld.com/)
+```
+Made a platformer using melon js and tiled. 
+( Win my resume by playing a video game)
+After 20,000 points you get my resume. 
+```
 
 
 
