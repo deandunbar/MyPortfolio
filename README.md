@@ -55,6 +55,12 @@ Part of the Monerosigner project.
 
 ### Ethereum 
 
+### Vanity Address generator in GO [Vanity Walk](https://github.com/HackingWeb3/vanity-walk)
+```
+This is *Vanity Walk* — a hands-on, code-first journey into Ethereum key generation and vanity address brute-forcing.  
+Built in Go with no magic libraries. Just curves, Keccak, and ~~goroutines~~ *(not yet)*.
+```
+
 ### Ethernaut Solutions [Solutions Repo](https://github.com/HackingWeb3/EthernautSolutions) 
 ```
 The Ethernaut is a Web3/Solidity based wargame. 
