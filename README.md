@@ -7,12 +7,14 @@ This repo is actively updated with the latest
 
 ### KeySilence - [Tool Repo](https://github.com/HackerIndustrial-Tooling/SilentSuite/blob/main/key_silence/README.md)
 ```
-silently unlocks macOS Keychain and extracts Chrome Safe Storage credentials using native macOS APIs with no security binary calls—bypassing typical EDR detection techniques.
+silently unlocks macOS Keychain and extracts Chrome Safe Storage credentials
+using native macOS APIs with no security binary calls—bypassing typical EDR detection techniques.
 ```
 
 ### C2go - [Tool Repo](https://github.com/HackerIndustrial-Tooling/C2go)
 ```
-A very simple c2 in golang with matching cross platform agent. Made for quick remote testing during agent development.
+A very simple c2 in golang with matching cross platform agent.
+Made for quick remote testing during agent development.
 ```
 
 
