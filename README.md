@@ -17,6 +17,11 @@ A very simple c2 in golang with matching cross platform agent.
 Made for quick remote testing during agent development.
 ```
 
+### EntropyRoll - [Repo](https://github.com/SecurityWorkshops/EntropyRoll)
+```
+Workshop for rolling your own entropy for creating key pairs. Key pairs are used for encryption/decryption
+```
+
 
 ## Web3 
 
