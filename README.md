@@ -17,7 +17,7 @@ A very simple c2 in golang with matching cross platform agent.
 Made for quick remote testing during agent development.
 ```
 
-### rektwallet - [Repo]([https://github.com/SecurityWorkshops/EntropyRoll](https://github.com/HackingWeb3/rektwallet)
+### rektwallet - [Repo](https://github.com/SecurityWorkshops/EntropyRoll](https://github.com/HackingWeb3/rektwallet)
 ```
 rektwallet is a deliberately vulnerable Bitcoin wallet written in Python.
 It demonstrates how poor nonce reuse in ECDSA signatures can lead to
